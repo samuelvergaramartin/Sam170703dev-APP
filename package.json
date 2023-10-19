@@ -1,0 +1,17 @@
+{
+  "name": "myfirstapp-electron",
+  "version": "1.0.0",
+  "description": "Mi primera App Creada con Electron en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "./resolver.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samuel Vergara Martín",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.3.0",
+    "standard": "^17.1.0"
+  }
+}
